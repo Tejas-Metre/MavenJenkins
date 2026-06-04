@@ -7,7 +7,6 @@
   
     <classes>
       <class name="testcase.AmazonTestCases"/>
-      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
