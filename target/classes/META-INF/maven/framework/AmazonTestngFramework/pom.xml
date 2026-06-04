@@ -16,8 +16,9 @@
     <maven.compiler.release>17</maven.compiler.release>
   </properties>
 
-  <dependencyManagement>
+<!--   <dependencyManagement>
     <dependencies>
+    
       <dependency>
         <groupId>org.junit</groupId>
         <artifactId>junit-bom</artifactId>
@@ -27,19 +28,19 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
-
+ -->
   <dependencies>
-    <dependency>
+    <!-- <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
       <scope>test</scope>
     </dependency>
-    <!-- Optionally: parameterized tests support -->
+    Optionally: parameterized tests support
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-params</artifactId>
       <scope>test</scope>
-    </dependency>
+    </dependency> -->
     
     
       
