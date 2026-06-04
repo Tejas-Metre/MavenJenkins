@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   <test name="Test">
-   <parameter name="title1" value="Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in"/>
+   <parameter name="titles1" value="Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in"/>
 <!--      <parameter name="title2" value="Amazon.in : Laptop12345"/> -->
   
     <classes>
